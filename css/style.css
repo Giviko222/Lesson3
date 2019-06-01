@@ -1,0 +1,114 @@
+img{
+	height: 30px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.navigation-a {
+	color: #3D58A6;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.orange {
+	color: #EE4036;
+}
+
+.mtavari {
+
+	
+
+}
+
+.siaxleebi {
+	
+	margin-left: 37px;
+	margin-right: 55px;
+}
+
+.kontakti {
+	
+
+}
+
+
+
+.inline-block{
+	display: inline-block;
+	margin-top: 35px;
+
+
+}
+
+.ricxvi {
+	background-color: #3D58A6;
+	display: inline-block;
+	font-size: 32px;
+	color: white;
+	margin-top: 30px;
+	margin-left: 30px;
+	padding-top: 10px;
+	padding-right: 12px;
+	padding-bottom: 6px;
+	padding-left: 0.5px;
+
+}
+
+.maisi {
+	margin-top: 7px;
+	margin-left: 30px;
+	font-size: 13px;
+	color: #3D58A6;
+}
+
+.satauri {
+	font-size: 20px;
+	font-style: bold;
+	margin-top: 30px;
+	margin-left: 30px;
+
+
+}
+
+.surati {
+ height: 210px;
+ margin-left: 30px;
+ margin-top: 20px;
+ display: inline-block;
+}
+
+
+
+.teksti {
+	font-style: bold;
+	font-size: 13px;
+	display: inline-block;
+	width: 930px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+
+}
+
+.logoebi {
+	margin-top: 200px;
+
+}
+
+.fb {
+	margin-left: 30px;
+	margin-right: 35px;
+
+}
+
+.line {
+	margin-right: 35px;
+}
